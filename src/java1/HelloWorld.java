@@ -14,6 +14,8 @@ public class HelloWorld {
 		}
 		else
 			System.out.println( b +" is greater than "+ a);
+		
+		System.out.println("exiting the program");
 	}
 
 }
