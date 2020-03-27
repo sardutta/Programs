@@ -16,7 +16,7 @@ public class HelloWorld {
 			System.out.println( b +" is greater than "+ a);
 		
 		System.out.println("exiting the program");
-		System.out.println("exiting the repository");
+		
 	}
 
 }
