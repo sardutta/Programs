@@ -17,6 +17,7 @@ public class HelloWorld {
 		
 		System.out.println("exiting the program");
 		System.out.println("abcs");
+		System.out.println("my new practice");
 		
 	}
 
